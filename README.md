@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/78255973/188301985-f3634c7e-7567-4c2c-
 Steps to have this project:
 1) Create new project in android studio.
 2) Open build.gradle and add this dependencies.
-   
+   ## To start with this project first is need to add dependencies in gradle build.
     implementation 'com.android.support:appcompat-v7:28.0.0'
     implementation 'com.android.support.constraint:constraint-layout:2.0.4'
     implementation 'com.android.support:cardview-v7:28.0.0'
