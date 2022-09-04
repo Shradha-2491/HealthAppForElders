@@ -19,7 +19,9 @@ https://user-images.githubusercontent.com/78255973/188301985-f3634c7e-7567-4c2c-
 
 Steps to have this project:
 1) Create new project in android studio.
-2) Open build.gradle and add this dependencies.
+2) Open build.gradle and add dependencies.
+3) Add all file and run file.
+
 ## To start with this project first is need to add dependencies in gradle build.
 implementation 'com.android.support:appcompat-v7:28.0.0'
 implementation 'com.android.support.constraint:constraint-layout:2.0.4'
@@ -27,4 +29,3 @@ implementation 'com.android.support:cardview-v7:28.0.0'
 testImplementation 'junit:junit:4.13.2'
 androidTestImplementation 'com.android.support.test:runner:1.0.2'
 androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
-3) Add all file and run file
